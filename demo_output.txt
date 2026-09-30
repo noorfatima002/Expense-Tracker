@@ -1,0 +1,30 @@
+INOVEGEN INTERNSHIP — TASK 2
+COMMAND-LINE EXPENSE TRACKER
+========================================
+1. Add expense
+2. View all expenses
+3. Search / filter
+4. Show total & category-wise totals
+5. Update expense
+6. Delete expense
+7. Save data
+0. Exit
+
+> 2
+
+ID               Date         Category            Amount  Description
+------------------------------------------------------------------------------
+0001             2026-09-25   Food                450.00  Lunch
+0002             2026-09-24   Transport          1200.00  Fuel
+0003             2026-09-23   Education           800.00  Course material
+==============================================================================
+
+> 4
+
+--- Spending Summary ---
+Total expenses: 2450.00
+
+Category-wise totals:
+- Education: 800.00
+- Food: 450.00
+- Transport: 1200.00
